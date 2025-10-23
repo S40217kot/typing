@@ -1,0 +1,18 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f8ff;
+}
+
+button {
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+textarea {
+  font-size: 20px;
+  width: 80%;
+  margin-top: 10px;
+}
